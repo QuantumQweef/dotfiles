@@ -1,0 +1,1 @@
+/home/drew/.homesick/repos/dotfiles/home/.zshrc
